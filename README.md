@@ -7,6 +7,7 @@
  2) 스킬생성 : Flask 서버의 JSON형태로 데이터를 주고 받을 주소지정
  3) 시나리오 > 블록추가 > 봇응답 > 스킬데이터 
 
+------
 ## KoNLPy(코엔엘파이)
 ### 설치 
 * 참고 사이트 : https://hogni.tistory.com/39
@@ -19,6 +20,7 @@
   + 오류시 참고 사이트 : http://blog.naver.com/PostView.nhn?blogId=kdj0876&logNo=222259132909&parentCategoryNo=&categoryNo=90&viewDate=&isShowPopularPosts=true&from=search
 3) KoNLPy 패키지 설치 : pip install konlpy
  
+------
 ## Vscode 가상환경 생성
 1. 터미널 모드 실행 : python -m venv chatenv
 * 참고 사이트 : https://mr-spock.tistory.com/19
