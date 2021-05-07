@@ -8,7 +8,7 @@
  3) 시나리오 > 블록추가 > 봇응답 > 스킬데이터 
 
 ## KoNLPy(코엔엘파이)
-1. 설치 
+### 설치 
 * 참고 사이트 : https://hogni.tistory.com/39
 0) JDK 설치 후 경로 설정 
 1) pip upgrade : pip install --upgrade pip 
