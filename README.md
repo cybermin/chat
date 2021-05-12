@@ -31,6 +31,9 @@
   + 참고 사이트 : https://jy-tblog.tistory.com/8
 
 ## VScode Git 
+0.로컬 저장소에서 git config
+  * git config --global user.email "user@email.com"
+  * git config --global user.name "username"
 1. 원격 저장소와 로컬 저장소 연결 : ctrl+shift+p git clone 원격저장소 주소
 * 참고 사이트 : https://technote.kr/352
 2. add(staging) -> commit -> push 
